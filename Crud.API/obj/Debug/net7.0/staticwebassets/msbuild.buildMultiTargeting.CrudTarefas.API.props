@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CrudTarefas.API.props" />
+</Project>

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CrudTarefas.API", "Crud.API\CrudTarefas.API.csproj", "{1AC261C2-4529-481D-AAAD-D3C32D72A380}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1AC261C2-4529-481D-AAAD-D3C32D72A380}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AC261C2-4529-481D-AAAD-D3C32D72A380}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AC261C2-4529-481D-AAAD-D3C32D72A380}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AC261C2-4529-481D-AAAD-D3C32D72A380}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF1CDA56-7AE7-4D25-B487-9A0E7A303367}
+	EndGlobalSection
+EndGlobal
